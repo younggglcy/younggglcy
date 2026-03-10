@@ -3,7 +3,7 @@ $ neofetch
 > younggglcy@github
 > -------------------------------------
 > OS: macOS | Ubuntu
-> Role: Software Engineer | AI Coder
+> Role: AI Coder | AI Native Builder
 > Interests: 🎮 Gaming | 🏀 Basketball
 > Motto: Talk is cheap | Slow is fast
 > Life goal: Leave a trace in the world
